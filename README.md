@@ -1,6 +1,6 @@
 # PokeLanches
 
-> Status: Concluído
+> Status: Em Andamento
 
 Criação de um site para venda e administração de lanches baseado no CafeMix Pokemon utilizando .NET 6.
 
