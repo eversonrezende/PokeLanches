@@ -1,4 +1,7 @@
-﻿namespace PokeLanches;
+﻿using Microsoft.EntityFrameworkCore;
+using PokeLanches.Context;
+
+namespace PokeLanches;
 
 public class Startup
 {
@@ -11,6 +14,8 @@ public class Startup
 
     public void ConfigureServices(IServiceCollection services)
     {
+        services.AddDbContext<AppDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnections")));
         services.AddControllersWithViews();
     }
 
