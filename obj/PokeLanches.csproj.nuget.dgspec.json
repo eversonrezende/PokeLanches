@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\macoratti\\PokeLanches\\PokeLanches.csproj": {}
+    "D:\\dev\\macoratti\\PokeLanches\\PokeLanches.csproj": {}
   },
   "projects": {
-    "C:\\dev\\macoratti\\PokeLanches\\PokeLanches.csproj": {
+    "D:\\dev\\macoratti\\PokeLanches\\PokeLanches.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\macoratti\\PokeLanches\\PokeLanches.csproj",
+        "projectUniqueName": "D:\\dev\\macoratti\\PokeLanches\\PokeLanches.csproj",
         "projectName": "PokeLanches",
-        "projectPath": "C:\\dev\\macoratti\\PokeLanches\\PokeLanches.csproj",
-        "packagesPath": "C:\\Users\\erezende\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\macoratti\\PokeLanches\\obj\\",
+        "projectPath": "D:\\dev\\macoratti\\PokeLanches\\PokeLanches.csproj",
+        "packagesPath": "C:\\Users\\Everson\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\macoratti\\PokeLanches\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\erezende\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Everson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
