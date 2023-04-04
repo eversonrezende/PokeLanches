@@ -1,5 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PokeLanches.Context;
+using PokeLanches.Repositories;
+using PokeLanches.Repositories.Interfaces;
 
 namespace PokeLanches;
 
@@ -17,6 +19,9 @@ public class Startup
         services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         services.AddControllersWithViews();
+
+        services.AddTransient<ILancheRepository, LancheRepository>();
+        services.AddTransient<ICategoriaRepository, CategoriaRepository>();
     }
 
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
