@@ -100,6 +100,8 @@ C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abst
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
@@ -132,6 +134,7 @@ C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\System.Composition.Hosting.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\System.Composition.Runtime.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\System.Composition.TypedParts.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
