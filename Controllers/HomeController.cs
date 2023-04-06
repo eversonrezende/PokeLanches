@@ -9,7 +9,6 @@ namespace PokeLanches.Controllers
 
         public IActionResult Index()
         {
-            TempData["Nome"] = "Everson";
             return View();
         }
 
