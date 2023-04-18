@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PokeLanches.Context;
+using PokeLanches.Models;
 using PokeLanches.Repositories;
 using PokeLanches.Repositories.Interfaces;
 
@@ -22,8 +23,8 @@ public class Startup
 
         services.AddTransient<ILancheRepository, LancheRepository>();
         services.AddTransient<ICategoriaRepository, CategoriaRepository>();
-
         services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+        services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
 
         services.AddMemoryCache();
         services.AddSession();
