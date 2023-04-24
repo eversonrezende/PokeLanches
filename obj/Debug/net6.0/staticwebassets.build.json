@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5N9gq5k1jHwA+V6O692GvXBNdLsoQJvjLm1+Ie7mnJc=",
+  "Hash": "9dPe+nCsb4sjeW3KPl3vgpX8VHdppMIu91NvD8m18tA=",
   "Source": "PokeLanches",
   "BasePath": "_content/PokeLanches",
   "Mode": "Default",
@@ -134,6 +134,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel3.jpg"
+    },
+    {
+      "Identity": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\remove.png",
+      "SourceId": "PokeLanches",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\",
+      "BasePath": "_content/PokeLanches",
+      "RelativePath": "images/remove.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\remove.png"
+    },
+    {
+      "Identity": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\shopping-cart.png",
+      "SourceId": "PokeLanches",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\",
+      "BasePath": "_content/PokeLanches",
+      "RelativePath": "images/shopping-cart.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shopping-cart.png"
     },
     {
       "Identity": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\js\\site.js",

@@ -25,6 +25,14 @@
       "PackagePath": "staticwebassets\\images\\carousel3.jpg"
     },
     {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\remove.png",
+      "PackagePath": "staticwebassets\\images\\remove.png"
+    },
+    {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\shopping-cart.png",
+      "PackagePath": "staticwebassets\\images\\shopping-cart.png"
+    },
+    {
       "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
