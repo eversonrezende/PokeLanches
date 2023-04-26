@@ -1,15 +1,28 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PokeLanches.Models;
+using PokeLanches.Repositories.Interfaces;
+using PokeLanches.ViewModels;
 using System.Diagnostics;
 
 namespace PokeLanches.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly ILancheRepository _lancheRepository;
+
+        public HomeController(ILancheRepository lancheRepository)
+        {
+            _lancheRepository = lancheRepository;
+        }
 
         public IActionResult Index()
         {
-            return View();
+            var homeViewModel = new HomeViewModel
+            {
+                LanchesPreferidos = _lancheRepository.LanchesPreferidos
+            };
+
+            return View(homeViewModel);
         }
 
         public IActionResult Demo()
