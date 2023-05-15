@@ -29,6 +29,18 @@
       "PackagePath": "staticwebassets\\images\\remove.png"
     },
     {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\shopping-cart (1).png",
+      "PackagePath": "staticwebassets\\images\\shopping-cart (1).png"
+    },
+    {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\shopping-cart (2).png",
+      "PackagePath": "staticwebassets\\images\\shopping-cart (2).png"
+    },
+    {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\shopping-cart.ico",
+      "PackagePath": "staticwebassets\\images\\shopping-cart.ico"
+    },
+    {
       "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\shopping-cart.png",
       "PackagePath": "staticwebassets\\images\\shopping-cart.png"
     },
