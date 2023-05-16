@@ -25,24 +25,28 @@
       "PackagePath": "staticwebassets\\images\\carousel3.jpg"
     },
     {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\carrinho-compra.png",
+      "PackagePath": "staticwebassets\\images\\carrinho-compra.png"
+    },
+    {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\contact-us.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-us.jpg"
+    },
+    {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\email.png",
+      "PackagePath": "staticwebassets\\images\\email.png"
+    },
+    {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\map.png",
+      "PackagePath": "staticwebassets\\images\\map.png"
+    },
+    {
       "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\remove.png",
       "PackagePath": "staticwebassets\\images\\remove.png"
     },
     {
-      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\shopping-cart (1).png",
-      "PackagePath": "staticwebassets\\images\\shopping-cart (1).png"
-    },
-    {
-      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\shopping-cart (2).png",
-      "PackagePath": "staticwebassets\\images\\shopping-cart (2).png"
-    },
-    {
-      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\shopping-cart.ico",
-      "PackagePath": "staticwebassets\\images\\shopping-cart.ico"
-    },
-    {
-      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\shopping-cart.png",
-      "PackagePath": "staticwebassets\\images\\shopping-cart.png"
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\telephone-call.png",
+      "PackagePath": "staticwebassets\\images\\telephone-call.png"
     },
     {
       "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\js\\site.js",
