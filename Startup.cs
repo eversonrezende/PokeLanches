@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using PokeLanches.Context;
 using PokeLanches.Models;
 using PokeLanches.Repositories;
@@ -19,7 +20,10 @@ public class Startup
     {
         services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-        services.AddControllersWithViews();
+
+        services.AddIdentity<IdentityUser, IdentityRole>()
+            .AddEntityFrameworkStores<AppDbContext>()
+            .AddDefaultTokenProviders();
 
         services.AddTransient<ILancheRepository, LancheRepository>();
         services.AddTransient<ICategoriaRepository, CategoriaRepository>();
@@ -27,6 +31,8 @@ public class Startup
 
         services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
+
+        services.AddControllersWithViews();
 
         services.AddMemoryCache();
         services.AddSession();
@@ -44,11 +50,15 @@ public class Startup
             app.UseHsts();
         }
         app.UseHttpsRedirection();
+
         app.UseStaticFiles();
         app.UseRouting();
+
         app.UseSession();
 
+        app.UseAuthentication();
         app.UseAuthorization();
+
         app.UseEndpoints(endpoints =>
         {
             endpoints.MapControllerRoute(

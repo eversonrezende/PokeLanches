@@ -74,6 +74,9 @@ C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\PokeLanches.pdb
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Humanizer.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\MessagePack.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.Build.dll
@@ -102,6 +105,8 @@ C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Rela
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.Identity.Client.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\dev\macoratti\PokeLanches\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll

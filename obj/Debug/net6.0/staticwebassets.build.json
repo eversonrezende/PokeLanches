@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ny+ObXrr9glpPWlVkfn7CSbSASGNqGEveKIToq93SFY=",
+  "Hash": "aL3+B44VtId7RtBnZCmUSx+PJ4N3HuUBJJ4DTmqhi8A=",
   "Source": "PokeLanches",
   "BasePath": "_content/PokeLanches",
   "Mode": "Default",
@@ -204,6 +204,23 @@
       "OriginalItemSpec": "wwwroot\\images\\map.png"
     },
     {
+      "Identity": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\registered.png",
+      "SourceId": "PokeLanches",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\",
+      "BasePath": "_content/PokeLanches",
+      "RelativePath": "images/registered.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registered.png"
+    },
+    {
       "Identity": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\remove.png",
       "SourceId": "PokeLanches",
       "SourceType": "Discovered",
@@ -236,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\telephone-call.png"
+    },
+    {
+      "Identity": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\user.png",
+      "SourceId": "PokeLanches",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\",
+      "BasePath": "_content/PokeLanches",
+      "RelativePath": "images/user.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user.png"
     },
     {
       "Identity": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\js\\site.js",
