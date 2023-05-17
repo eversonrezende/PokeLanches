@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\acesso-negado.jpg",
+      "PackagePath": "staticwebassets\\images\\acesso-negado.jpg"
+    },
+    {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\admin-250.jpg",
+      "PackagePath": "staticwebassets\\images\\admin-250.jpg"
+    },
+    {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\admin-resize.jpg",
+      "PackagePath": "staticwebassets\\images\\admin-resize.jpg"
+    },
+    {
+      "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\images\\admin.jpg"
+    },
+    {
       "Id": "C:\\dev\\macoratti\\PokeLanches\\wwwroot\\images\\carousel1.jpg",
       "PackagePath": "staticwebassets\\images\\carousel1.jpg"
     },
