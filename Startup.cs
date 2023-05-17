@@ -5,6 +5,7 @@ using PokeLanches.Models;
 using PokeLanches.Repositories;
 using PokeLanches.Repositories.Interfaces;
 using PokeLanches.Services;
+using ReflectionIT.Mvc.Paging;
 
 namespace PokeLanches;
 
@@ -44,6 +45,12 @@ public class Startup
         services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
 
         services.AddControllersWithViews();
+
+        services.AddPaging(options =>
+        {
+            options.ViewName = "Bootstrap4";
+            options.PageParameterName = "pageindex";
+        });
 
         services.AddMemoryCache();
         services.AddSession();
