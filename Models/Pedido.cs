@@ -69,6 +69,6 @@ namespace PokeLanches.Models
         [DisplayFormat(DataFormatString = "{0: dd/MM/yyyy hh:mm}", ApplyFormatInEditMode = true)]
         public DateTime? PedidoEntregueEm { get; set; }
 
-        public List<PedidoDetalhe> PedidoItens { get; set; }
+        public virtual List<PedidoDetalhe> PedidoItens { get; set; }
     }
 }
